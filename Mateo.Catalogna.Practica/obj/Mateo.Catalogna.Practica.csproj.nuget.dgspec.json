@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\Mateo.Catalogna.Practica\\Mateo.Catalogna.Practica.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\Mateo.Catalogna.Practica\\Mateo.Catalogna.Practica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\Mateo.Catalogna.Practica\\Mateo.Catalogna.Practica.csproj",
+        "projectName": "Mateo.Catalogna.Practica",
+        "projectPath": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\Mateo.Catalogna.Practica\\Mateo.Catalogna.Practica.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\Mateo.Catalogna.Practica\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\PracticaAvengers\\PracticaAvengers.csproj": {
+                "projectPath": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\PracticaAvengers\\PracticaAvengers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\PracticaAvengers\\PracticaAvengers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\PracticaAvengers\\PracticaAvengers.csproj",
+        "projectName": "PracticaAvengers",
+        "projectPath": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\PracticaAvengers\\PracticaAvengers.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\source\\repos\\PracticaAvengers\\PracticaAvengers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

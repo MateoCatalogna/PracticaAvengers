@@ -1,0 +1,11 @@
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\bin\Debug\net6.0\PracticaAvengers.deps.json
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\bin\Debug\net6.0\PracticaAvengers.dll
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\bin\Debug\net6.0\PracticaAvengers.pdb
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\PracticaAvengers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\PracticaAvengers.AssemblyInfoInputs.cache
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\PracticaAvengers.AssemblyInfo.cs
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\PracticaAvengers.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\PracticaAvengers.dll
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\refint\PracticaAvengers.dll
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\PracticaAvengers.pdb
+C:\Users\Mateo\source\repos\PracticaAvengers\PracticaAvengers\obj\Debug\net6.0\ref\PracticaAvengers.dll

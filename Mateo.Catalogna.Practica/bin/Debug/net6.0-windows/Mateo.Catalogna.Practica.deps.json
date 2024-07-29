@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mateo.Catalogna.Practica/1.0.0": {
+        "dependencies": {
+          "PracticaAvengers": "1.0.0"
+        },
+        "runtime": {
+          "Mateo.Catalogna.Practica.dll": {}
+        }
+      },
+      "PracticaAvengers/1.0.0": {
+        "runtime": {
+          "PracticaAvengers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mateo.Catalogna.Practica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaAvengers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
